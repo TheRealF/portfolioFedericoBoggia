@@ -1,3 +1,1 @@
-# portfolioFedericoBoggia
-## 2025
-Questa repository contiene il portofolio di federico Boggia
+Questa repository contiene il portofolio di federico Boggia, è organizzata in cartelle 
