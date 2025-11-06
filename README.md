@@ -1,4 +1,6 @@
-Questa repository contiene il portofolio di federico Boggia:
+# Questa repository contiene il portofolio di Federico Boggia:
 
-- Il file progettoLorenzo contiene una PIPELINE ETL che esegue il webscraping di steam chart giornaliero e recupera il player count giornaliero e lo salva in una serie storica
-- Per provare il file progettoLorenzo è sufficiente scaricare il file progettoLorenzo ed eseguirlo con un qualsiasi IDE di python ad esempio JupyterLab 
+- All'interno sono presenti 4 pipeline ETL:
+
+### PIPELINECINEMASERIETV
+Questo script implementa una pipeline ETL (Extract, Transform, Load) per raccogliere, elaborare e analizzare dati su film e serie TV da API esterne (The Movie Database e OMDb). Il codice estrae i dati, li normalizza, calcola punteggi ponderati e trend, analizza correlazioni tra generi e popolarità, e genera visualizzazioni (grafici, bubble chart) e notifiche automatiche via email/Discord in caso di cambiamenti nella top 10 dei titoli più popolari. 
