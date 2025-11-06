@@ -8,6 +8,8 @@ Questo script implementa una pipeline ETL (Extract, Transform, Load) per raccogl
 Questo file raccoglie dati dal sito di Steam sul numero di giocatori di un gioco o più giochi nel tempo. In futuro, quando avrà accumulato abbastanza dati, potrà essere usato per fare analisi statistiche e creare grafici sull’andamento dei player.
 
 [![CERTIFICATO CORSO ETL](https://img.shields.io/badge/CERTIFICATO-CORSO%20ETL-003366?style=plastic)](https://binatomy.com)
+[![BINATOMY STUDENT](https://img.shields.io/badge/BINATOMY-STUDENT-2E8B57?style=plastic)](https://binatomy.com)
+
 
 
 
