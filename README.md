@@ -7,4 +7,5 @@ Questo script implementa una pipeline ETL (Extract, Transform, Load) per raccogl
 - 2. WEBSCRAPERSTEAM:
 Questo file raccoglie dati dal sito di Steam sul numero di giocatori di un gioco o più giochi nel tempo. In futuro, quando avrà accumulato abbastanza dati, potrà essere usato per fare analisi statistiche e creare grafici sull’andamento dei player.
 
-https://img.shields.io/badge/Certificato-Corso%20ETL-%23003366?style=for-the-badge&logo=database&logoColor=white
+[![Certificato Corso ETL](https://img.shields.io/badge/Certificato-Corso%20ETL-003366?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==&logoColor=white)](https://binatomy.com)
+
